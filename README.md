@@ -17,3 +17,6 @@ A set of transformed cryptocurrency's price is given so there is no way of knowi
 
 ## Results:
 Machine learning technique didn't reduce the RMSE on validation data as much as I thought. In the end ARMA(5,14)+GARCH(10,2) is chosen to make the 60 days prediction for submission. Achieved second place in the class.
+
+## Improvements:
+The cryptocurrency turns out to be bitcoin. The first place team used the last 1/3 of the data, so they were able tp pick up the mostly upward trend in 2017 and made a better prediction.
