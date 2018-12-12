@@ -1,4 +1,4 @@
-# This project is for class STAT6347 S18
+# Bitcoin-Price-Prediction
 
 ## Project description:
 A set of transformed cryptocurrency's price is given so there is no way of knowing which one it is. The goal is to construct 60 days ahead forecast using the giving historical data.
